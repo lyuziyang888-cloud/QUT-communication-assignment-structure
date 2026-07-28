@@ -17,32 +17,6 @@ The key point is not simply to identify who has formal authority. You need to ex
 - Referencing style: APA.
 - Submission format: PDF.
 - File name: `FIRSTNAME_LASTNAME_STUDENTNUMBER.pdf`.
-- Appendix: include a declaration of generative AI or AI-assisted technology use.
-
-## Generative AI Rules
-
-Generative AI is allowed only as a support tool. It can be used for:
-
-- understanding task requirements;
-- brainstorming possible issues to consider;
-- planning and organisation;
-- checking whether a draft addresses the task sheet;
-- identifying gaps in reasoning;
-- creating a pre-submission checklist.
-
-Generative AI must not be used to write the final analysis for you. The submitted work must reflect your own observations, evidence, interpretation, citations, and reasoning.
-
-You must check AI output against:
-
-- the task sheet;
-- the rubric;
-- learning materials;
-- your selected scene, advertisement, or social media sample;
-- peer-reviewed academic sources;
-- relevant government or official data where required;
-- your own understanding.
-
-Fabricated references, unacknowledged AI use, or submission of AI-generated writing as your own is not acceptable.
 
 ## Part A: Interpersonal Communication Scene Analysis
 
@@ -125,7 +99,6 @@ Analyse a static advertisement from 2000 onwards that communicates a stereotype 
 - Include the URL.
 - Include the access date.
 - Paste the new advertisement image.
-- If using Adobe Express, include the prompt in the appendix.
 - If using Unsplash, provide the image reference and search terms used.
 
 ### Suitable Advertisements
@@ -194,7 +167,7 @@ Use at least 3 sources:
 
 Create a new advertisement that challenges the identified stereotype. The new image should align with the original product, service, or message, but change who is represented or how the group is represented.
 
-The rationale should explain what changed and how those changes counter the original stereotype. Do not upload the original image to AI because that may breach copyright.
+The rationale should explain what changed and how those changes counter the original stereotype.
 
 ### Part B Checklist
 
@@ -293,6 +266,5 @@ End the analysis with a practical recommendation to the professional body. Frame
 - Check each part uses the required evidence.
 - Check all in-text citations and reference list entries are APA style.
 - Check all references are real and relevant.
-- Complete the generative AI declaration appendix if AI or AI-assisted tools were used.
 - Export as PDF.
 - Name the file `FIRSTNAME_LASTNAME_STUDENTNUMBER.pdf`.

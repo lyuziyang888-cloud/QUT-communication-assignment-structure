@@ -87,7 +87,6 @@ Part A mini-conclusion frame:
 - Official Australian data source:
 - Two scholarly sources:
 - New advertisement inserted:
-- If using Adobe Express, prompt recorded in appendix:
 - If using Unsplash, image reference and search terms recorded:
 
 ### Paragraph 1: Identify The Stereotype, About 80-100 Words
@@ -286,7 +285,6 @@ Use this order in the final submission:
 2. Part A screenshot, URL, timestamp, analysis, references, and word count.
 3. Part B original advertisement, URL, access date, analysis, redesigned advertisement, rationale, references, and word count.
 4. Part C feed screenshots, platform and handle, URL, date range, sample size, analysis, allyship recommendation, references, and word count.
-5. Appendix: generative AI declaration and AI use table.
 
 ## Quality Control Checklist
 

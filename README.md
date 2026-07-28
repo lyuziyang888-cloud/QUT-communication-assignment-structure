@@ -14,4 +14,3 @@ This repository records the requirements and writing structure for the QUT005 co
 - Part C: professional body social media representation analysis, 500 words +/-10%.
 - References: at least 9 total, with at least 3 for each part.
 - Submission: PDF named `FIRSTNAME_LASTNAME_STUDENTNUMBER.pdf`.
-- Appendix: document any responsible AI use.
