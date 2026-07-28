@@ -1,0 +1,298 @@
+# QUT005 Assignment Requirements 2026
+
+## Core Focus
+
+This assignment asks you to analyse how power and privilege operate through communication. Across all three parts, your writing should explain how social identities shape communication, representation, authority, credibility, visibility, and belonging.
+
+Relevant social identities may include gender, race, class, disability, age, sexuality, culture, religion, migration status, and Indigeneity.
+
+The key point is not simply to identify who has formal authority. You need to explain how identities and wider systems of power influence whose voices are heard, whose expertise is valued, who is represented as belonging, and who is marginalised or absent.
+
+## Overall Requirements
+
+- Part A: 500 words +/-10%.
+- Part B: 500 words +/-10%.
+- Part C: 500 words +/-10%.
+- References: at least 9 sources total, with at least 3 sources for each part.
+- Referencing style: APA.
+- Submission format: PDF.
+- File name: `FIRSTNAME_LASTNAME_STUDENTNUMBER.pdf`.
+- Appendix: include a declaration of generative AI or AI-assisted technology use.
+
+## Generative AI Rules
+
+Generative AI is allowed only as a support tool. It can be used for:
+
+- understanding task requirements;
+- brainstorming possible issues to consider;
+- planning and organisation;
+- checking whether a draft addresses the task sheet;
+- identifying gaps in reasoning;
+- creating a pre-submission checklist.
+
+Generative AI must not be used to write the final analysis for you. The submitted work must reflect your own observations, evidence, interpretation, citations, and reasoning.
+
+You must check AI output against:
+
+- the task sheet;
+- the rubric;
+- learning materials;
+- your selected scene, advertisement, or social media sample;
+- peer-reviewed academic sources;
+- relevant government or official data where required;
+- your own understanding.
+
+Fabricated references, unacknowledged AI use, or submission of AI-generated writing as your own is not acceptable.
+
+## Part A: Interpersonal Communication Scene Analysis
+
+### Task
+
+Analyse a short scene from a movie or TV show and explain how social identities create or reinforce power and privilege in interpersonal communication.
+
+### Required Details
+
+- Paste an image from the start of the scene.
+- Include the URL.
+- Include precise timestamps.
+- Scene should be 2-3 minutes.
+- Movie or TV show must be from 2000 onwards.
+- Scene must include human characters.
+
+### Do Not Choose
+
+- dystopian, futuristic, or imagined alternative societies;
+- cartoons or animations;
+- fantasy races, magical characters, or superheroes;
+- stories centred on non-human characters, such as Barbie;
+- examples discussed by teaching staff, such as Hidden Figures;
+- scenes that are only about role-based authority, such as boss versus employee.
+
+If the scene includes a boss, teacher, doctor, police officer, or other authority figure, the analysis must go beyond role authority and explain how social identities affect the interaction.
+
+### Word Count
+
+- Context analysis: 100 words +/-10%.
+- Power dynamic analysis: 400 words +/-10%.
+- Total Part A: 500 words +/-10%.
+
+### Context Analysis
+
+Briefly describe the scene and identify the social identities relevant to the interaction. Explain how these identities shape power and privilege.
+
+Discuss contextual factors only when they help explain who has power, who is marginalised, or whose voice is valued. Relevant context may include time, place, social situation, culture, laws, institutional setting, or historical background.
+
+You may briefly acknowledge how your own perspective could shape your interpretation if relevant.
+
+### Power Dynamic Analysis
+
+Analyse how social identities create or reinforce power and privilege in the interaction. Focus on how communication shows unequal power.
+
+Consider:
+
+- which identities are privileged or marginalised;
+- who is believed, respected, interrupted, ignored, stereotyped, or controlled;
+- who is allowed to speak, question, explain, challenge, or remain silent;
+- whose knowledge, emotion, or experience is treated as valid;
+- whose perspective is dismissed, minimised, or controlled;
+- how verbal and non-verbal communication reinforces power and privilege;
+- how the interaction reflects broader social inequalities beyond the scene.
+
+### Evidence
+
+Use at least 3 academic or scholarly sources. Sources should help explain concepts such as power, privilege, intersectionality, stereotyping, identity, marginalisation, belonging, or discrimination.
+
+### Part A Checklist
+
+- Screenshot, URL, and precise timestamp included.
+- Scene is from 2000 onwards and includes human characters.
+- Scene avoids all prohibited categories.
+- Analysis focuses on social identities, power, and privilege, not only role hierarchy.
+- Context analysis is about 100 words.
+- Power analysis is about 400 words.
+- Three or more scholarly sources are cited in text and listed in APA style.
+- References are real, relevant, and checked.
+
+## Part B: Static Advertisement Stereotype Analysis
+
+### Task
+
+Analyse a static advertisement from 2000 onwards that communicates a stereotype about one or more marginalised identities connected to Part A. Then create a new advertisement that challenges the stereotype.
+
+### Required Details
+
+- Paste the original advertisement image.
+- Include the URL.
+- Include the access date.
+- Paste the new advertisement image.
+- If using Adobe Express, include the prompt in the appendix.
+- If using Unsplash, provide the image reference and search terms used.
+
+### Suitable Advertisements
+
+- print advertisements;
+- billboard advertisements;
+- magazine advertisements;
+- online display advertisements;
+- static social media advertisements.
+
+### Do Not Use
+
+- stock photos;
+- screenshots from TV or video advertisements;
+- cartoons;
+- stills from movies or TV shows;
+- public images that are not advertisements;
+- advertisements discussed by teaching staff;
+- images that do not clearly communicate a stereotype.
+
+### Word Count
+
+- Image analysis: 450 words +/-10%.
+- New image rationale: 50 words +/-10%.
+- Total Part B: 500 words +/-10%.
+
+### Image Analysis
+
+Identify the stereotype and explain how it is visually encoded in the advertisement.
+
+Visual encoding may include:
+
+- who is shown and who is missing;
+- who is centred or placed in the background;
+- body posture;
+- facial expression;
+- clothing;
+- colour;
+- lighting;
+- composition;
+- setting;
+- objects or symbols;
+- text, slogans, or captions;
+- who appears active, passive, competent, dependent, threatening, emotional, or in control.
+
+Explain how repeated exposure to similar stereotypes can reinforce or normalise unequal power and privilege in Australian society.
+
+The analysis should connect the stereotype to real social effects, such as:
+
+- social attitudes;
+- workplace opportunities;
+- leadership assumptions;
+- wages;
+- safety;
+- health;
+- education.
+
+### Evidence
+
+Use at least 3 sources:
+
+- at least 1 relevant government, institutional, or official statistical source showing the issue's impact in Australia;
+- at least 2 academic or scholarly sources.
+
+### New Advertisement Rationale
+
+Create a new advertisement that challenges the identified stereotype. The new image should align with the original product, service, or message, but change who is represented or how the group is represented.
+
+The rationale should explain what changed and how those changes counter the original stereotype. Do not upload the original image to AI because that may breach copyright.
+
+### Part B Checklist
+
+- Original static advertisement pasted with URL and access date.
+- Advertisement is from 2000 onwards.
+- Advertisement is not a prohibited image type.
+- Image analysis is about 450 words.
+- Analysis explains how the advertisement communicates the stereotype.
+- Analysis explains how repeated stereotypes reinforce or normalise power and privilege in Australian society.
+- Analysis uses evidence about impacts in Australia.
+- New advertisement image pasted.
+- Rationale is about 50 words.
+- At least 1 official/statistical source and at least 2 scholarly sources are cited and listed in APA style.
+- References are real, relevant, and checked.
+
+## Part C: Professional Communication Representation Analysis
+
+### Task
+
+Analyse representation patterns in the social media communication of a professional peak body, society, or accredited body connected to your future profession. Explain how these patterns shape perceptions of competence, leadership potential, and belonging.
+
+### Required Details
+
+- Paste screenshots showing the start of the social media feed and several sampled posts.
+- State the platform and handle.
+- Include the URL.
+- Include the date range.
+- Include the number of posts showing people that were sampled.
+
+### Organisation Requirements
+
+Choose a professional body connected to your future profession. It should represent, accredit, or support people already working in the profession.
+
+Do not use:
+
+- commercial companies that employ people in the profession;
+- recruitment companies;
+- client-focused organisations where posts mainly show clients or customers.
+
+### Sample Requirements
+
+- Select one social media platform with a substantial public presence, such as LinkedIn, Instagram, Facebook, X, Bluesky, or TikTok.
+- Analyse a meaningful sample of recent posts.
+- As a guide, examine at least 20 posts that include people in your future profession.
+- Focus only on professionals already in, or visibly associated with, the profession.
+
+### Word Count
+
+- Representation analysis: about 500 words +/-10%.
+- Allyship recommendation: 60-80 words.
+
+### Representation Analysis
+
+Identify repeated patterns across the sample, not one-off examples.
+
+Consider:
+
+- who is repeatedly visible;
+- who appears in leadership, expert, or speaking roles;
+- who is shown as junior, passive, peripheral, or absent;
+- whose names, titles, or achievements are highlighted;
+- whose expertise is validated through captions, hashtags, awards, or event promotion;
+- whether the communication reflects diversity within the profession;
+- what identities appear absent or underrepresented;
+- whether diversity appears in everyday professional posts, leadership posts, and expert posts, or mainly in group photos, special events, awareness days, or diversity-focused posts.
+
+If identities such as LGBTQIA+ identity, Indigeneity, chronic illness, religion, or non-visible disability are not visible or communicated through captions, profiles, hashtags, events, or self-identification, you can state that they are not clearly represented in the sample.
+
+Evaluate the implicit message the feed communicates about which professionals belong and are likely to succeed in the profession. Consider impacts on current professionals and people aspiring to enter the field.
+
+### Evidence
+
+Use at least 3 academic or scholarly sources.
+
+### Allyship Recommendation
+
+End the analysis with a practical recommendation to the professional body. Frame this as an allyship action and make sure it responds directly to the representation patterns found.
+
+### Part C Checklist
+
+- Professional body feed image pasted.
+- Platform, handle, URL, date range, and number of posts analysed are stated.
+- Analysis is about 500 words.
+- Patterns are identified across recent content.
+- Analysis identifies who is centred, marginalised, or absent.
+- Impacts are considered for current professionals and aspiring entrants.
+- Allyship recommendation is 60-80 words.
+- Three or more scholarly sources are cited in text and listed in APA style.
+- References are real, relevant, and checked.
+
+## Final Submission Checklist
+
+- Delete all guidance text from the assignment template before submitting.
+- Check each part meets the word count.
+- Check each part has the required images, URLs, dates, timestamps, or sample details.
+- Check each part uses the required evidence.
+- Check all in-text citations and reference list entries are APA style.
+- Check all references are real and relevant.
+- Complete the generative AI declaration appendix if AI or AI-assisted tools were used.
+- Export as PDF.
+- Name the file `FIRSTNAME_LASTNAME_STUDENTNUMBER.pdf`.
