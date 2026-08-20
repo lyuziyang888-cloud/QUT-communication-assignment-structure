@@ -34,6 +34,8 @@ Analyse a short scene from a movie or TV show and explain how social identities 
 - Key identities: gender, femininity, appearance, and professional identity.
 - Main power issue: the scene shows how gendered expectations shape professional belonging. Although Elle is formally admitted to Harvard Law, her feminine appearance, clothing, and social style make others treat her as less serious and less competent before her ability is fully recognised.
 
+![Part A screenshot from Legally Blonde classroom scene](part-a-legally-blonde-screenshot.jpg)
+
 ### Required Details
 
 - Paste an image from the start of the scene.
