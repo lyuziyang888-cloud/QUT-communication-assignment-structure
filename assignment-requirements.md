@@ -26,13 +26,13 @@ Analyse a short scene from a movie or TV show and explain how social identities 
 
 ### Selected Part A Scene
 
-- Movie/TV show: *The Pursuit of Happyness*.
-- Year: 2006.
-- Scene: Chris Gardner's Dean Witter interview.
-- URL: https://amara.org/videos/GnHUZDb7LcDA/en/1336190/3467374/
-- Timestamps: 4:09-5:40.
-- Key identities: class, poverty, and professional identity.
-- Main power issue: the scene shows how appearance, poverty, and institutional expectations shape whether Chris is seen as competent and belonging in a corporate workplace.
+- Movie/TV show: *Legally Blonde*.
+- Year: 2001.
+- Scene: Kicked Out of Class.
+- URL: https://www.rottentomatoes.com/m/legally_blonde/videos/KDeyZeSgnBem
+- Timestamps: 0:00-2:47.
+- Key identities: gender, femininity, appearance, and professional identity.
+- Main power issue: the scene shows how gendered expectations shape professional belonging. Although Elle is formally admitted to Harvard Law, her feminine appearance, clothing, and social style make others treat her as less serious and less competent before her ability is fully recognised.
 
 ### Required Details
 
