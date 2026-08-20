@@ -31,7 +31,6 @@ Analyse a short scene from a movie or TV show and explain how social identities 
 - Scene: Kicked Out of Class.
 - URL: https://www.rottentomatoes.com/m/legally_blonde/videos/KDeyZeSgnBem
 - Timestamps: 0:00-2:47.
-- Screenshot file: [part-a-legally-blonde-screenshot.png](part-a-legally-blonde-screenshot.png).
 - Key identities: gender, femininity, appearance, and professional identity.
 - Main power issue: the scene shows how gendered expectations shape professional belonging. Although Elle is formally admitted to Harvard Law, her feminine appearance, clothing, and social style make others treat her as less serious and less competent before her ability is fully recognised.
 
