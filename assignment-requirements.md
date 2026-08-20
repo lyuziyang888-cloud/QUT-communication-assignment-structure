@@ -24,6 +24,16 @@ The key point is not simply to identify who has formal authority. You need to ex
 
 Analyse a short scene from a movie or TV show and explain how social identities create or reinforce power and privilege in interpersonal communication.
 
+### Selected Part A Scene
+
+- Movie/TV show: *The Pursuit of Happyness*.
+- Year: 2006.
+- Scene: Chris Gardner's Dean Witter interview.
+- URL: https://amara.org/videos/GnHUZDb7LcDA/en/1336190/3467374/
+- Timestamps: 4:09-5:40.
+- Key identities: class, poverty, and professional identity.
+- Main power issue: the scene shows how appearance, poverty, and institutional expectations shape whether Chris is seen as competent and belonging in a corporate workplace.
+
 ### Required Details
 
 - Paste an image from the start of the scene.
