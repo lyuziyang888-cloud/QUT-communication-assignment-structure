@@ -1,5 +1,9 @@
 # QUT005 Assignment Requirements 2026
 
+## Summary
+
+This document organises QUT005 assignment materials for analysing power, privilege, identity, and representation in communication. It includes selected evidence for Part A, Part B, and Part C, including screenshots, URLs, timestamps, sample details, and academic references.
+
 ## Core Focus
 
 This assignment asks you to analyse how power and privilege operate through communication. Across all three parts, your writing should explain how social identities shape communication, representation, authority, credibility, visibility, and belonging.
