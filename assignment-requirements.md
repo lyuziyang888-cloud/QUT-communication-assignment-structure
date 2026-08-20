@@ -324,31 +324,25 @@ End the analysis with a practical recommendation to the professional body. Frame
 - Three or more scholarly sources are cited in text and listed in APA style.
 - References are real, relevant, and checked.
 
-## References Collected
+## References
 
-### Part A References
+Australian Institute of Health and Welfare. (2026). *Health of young people*. Australian Government. https://www.aihw.gov.au/reports/children-youth/health-of-young-people
 
-Glick, P., Larsen, S., Johnson, C., & Branstiter, H. (2005). Evaluations of Sexy Women In Low- and High-Status Jobs. *Psychology of Women Quarterly, 29*(4), 389-395. https://doi.org/10.1111/j.1471-6402.2005.00238.x
+Bairoh, S. (2024). "It is competence first": executives navigating gender equality targets and meritocracy in technology companies. *Gender in Management, 39*(4), 590-605. https://doi.org/10.1108/GM-05-2022-0172
 
 Fleischmann, A., Sieverding, M., Hespenheide, U., Weiss, M., & Koch, S. C. (2016). See feminine - Think incompetent? The effects of a feminine outfit on the evaluation of women's computer competence. *Computers and Education, 95*, 63-74. https://doi.org/10.1016/j.compedu.2015.12.007
 
-Heilman, M. E. (2012). Gender stereotypes and workplace bias. *Research in Organizational Behavior, 32*, 113-135. https://doi.org/10.1016/j.riob.2012.11.003
-
-### Part B References
+Glick, P., Larsen, S., Johnson, C., & Branstiter, H. (2005). Evaluations of Sexy Women In Low- and High-Status Jobs. *Psychology of Women Quarterly, 29*(4), 389-395. https://doi.org/10.1111/j.1471-6402.2005.00238.x
 
 Grabe, S., Ward, L. M., & Hyde, J. S. (2008). The Role of the Media in Body Image Concerns Among Women: A Meta-Analysis of Experimental and Correlational Studies. *Psychological Bulletin, 134*(3), 460-476. https://doi.org/10.1037/0033-2909.134.3.460
 
 Groesz, L. M., Levine, M. P., & Murnen, S. K. (2002). The effect of experimental presentation of thin media images on body satisfaction: A meta-analytic review. *The International Journal of Eating Disorders, 31*(1), 1-16. https://doi.org/10.1002/eat.10005
 
-Santoniccolo, F., Trombetta, T., Paradiso, M. N., & Rolle, L. (2023). Gender and Media Representations: A Review of the Literature on Gender Stereotypes, Objectification and Sexualization. *International Journal of Environmental Research and Public Health, 20*(10), Article 5770. https://doi.org/10.3390/ijerph20105770
-
-Australian Institute of Health and Welfare. (2026). *Health of young people*. Australian Government. https://www.aihw.gov.au/reports/children-youth/health-of-young-people
-
-### Part C References
+Heilman, M. E. (2012). Gender stereotypes and workplace bias. *Research in Organizational Behavior, 32*, 113-135. https://doi.org/10.1016/j.riob.2012.11.003
 
 Nagpal, M., Cao, J., Mai, K. M., & de Cremer, D. (2023). How Can Women Take Advantage of the High-Tech Era to be Perceived as Effective Leaders? Being Tech-Savvy Helps. *Journal of Leadership & Organizational Studies, 30*(4), 397-412. https://doi.org/10.1177/15480518231200618
 
-Bairoh, S. (2024). "It is competence first": executives navigating gender equality targets and meritocracy in technology companies. *Gender in Management, 39*(4), 590-605. https://doi.org/10.1108/GM-05-2022-0172
+Santoniccolo, F., Trombetta, T., Paradiso, M. N., & Rolle, L. (2023). Gender and Media Representations: A Review of the Literature on Gender Stereotypes, Objectification and Sexualization. *International Journal of Environmental Research and Public Health, 20*(10), Article 5770. https://doi.org/10.3390/ijerph20105770
 
 Wu, X., Almeida, S., Schulz, R., & O'Brien, M. (2026). Barriers and inclusive initiatives: A systematic literature review of women's employment in science, technology, engineering, and mathematics workplaces. *The Economic and Labour Relations Review: ELRR, 37*(1), 27-45. https://doi.org/10.1017/elr.2026.10064
 
