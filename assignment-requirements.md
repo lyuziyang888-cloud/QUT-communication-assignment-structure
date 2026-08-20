@@ -116,6 +116,8 @@ Analyse a static advertisement from 2000 onwards that communicates a stereotype 
 
 ![Part B original Protein World advertisement](part-b-protein-world-original-ad.jpg)
 
+![Part B reimagined inclusive advertisement](part-b-reimagined-every-body-beach-ready.jpg)
+
 ### Required Details
 
 - Paste the original advertisement image.
