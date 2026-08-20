@@ -228,7 +228,7 @@ Analyse representation patterns in the social media communication of a professio
 
 ### Selected Materials
 
-- Professional body / network: Women in Digital.
+- Professional network / industry community: Women in Digital.
 - Platform: Instagram.
 - Handle: @womenindigital.
 - URL: https://www.instagram.com/womenindigital/
@@ -236,6 +236,7 @@ Analyse representation patterns in the social media communication of a professio
 - Date range sampled: recent posts visible in August 2026.
 - Sample size: 20 recent Instagram posts showing people or professional representation.
 - Connected identity from Parts A and B: gender, femininity, professional competence, leadership, and belonging.
+- Fit with Part C: Women in Digital is used as a professional network connected to digital and technology careers. In the final report, describe it as a professional network or industry community rather than an accredited body.
 - Representation focus: how Women in Digital visually and textually represents women and other professionals in digital and technology spaces as experts, leaders, award nominees, speakers, and community members.
 
 #### Screenshot 1: Instagram Feed Overview
