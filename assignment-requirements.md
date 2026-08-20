@@ -103,6 +103,15 @@ Use at least 3 academic or scholarly sources. Sources should help explain concep
 
 Analyse a static advertisement from 2000 onwards that communicates a stereotype about one or more marginalised identities connected to Part A. Then create a new advertisement that challenges the stereotype.
 
+### Selected Part B Advertisement
+
+- Original advertisement: Protein World - Are You Beach Body Ready?
+- Year: 2015.
+- URL: https://www.theguardian.com/lifeandstyle/womens-blog/2015/jul/03/the-week-in-feminist-news-the-beach-body-ad-lives-on
+- Access date: 20 August 2026.
+- Connected identity from Part A: gender, femininity, appearance, and social/professional belonging.
+- Stereotype / assumption: women are expected to make their bodies visually acceptable for public display, with a slim, toned body presented as the standard of confidence, beauty, and social acceptability.
+
 ### Required Details
 
 - Paste the original advertisement image.
