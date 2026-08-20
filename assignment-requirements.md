@@ -222,6 +222,42 @@ Analyse representation patterns in the social media communication of a professio
 - Include the date range.
 - Include the number of posts showing people that were sampled.
 
+### Selected Part C Social Media Account
+
+- Professional body / network: Women in Digital.
+- Platform: Instagram.
+- Handle: @womenindigital.
+- URL: https://www.instagram.com/womenindigital/
+- Access date: 21 August 2026.
+- Date range sampled: recent posts visible in August 2026.
+- Sample size: 20 recent Instagram posts showing people or professional representation.
+- Connected identity from Parts A and B: gender, femininity, professional competence, leadership, and belonging.
+- Representation focus: how Women in Digital visually and textually represents women and other professionals in digital and technology spaces as experts, leaders, award nominees, speakers, and community members.
+
+#### Part C Screenshot 1: Instagram Feed Overview
+
+This screenshot shows the @womenindigital Instagram feed grid and provides evidence of the sampled social media context.
+
+![Part C Instagram feed overview](part-c-women-in-digital-feed.jpg)
+
+#### Part C Screenshot 2: Women in Digital National Awards 2026
+
+This screenshot shows a post about the Women in Digital National Awards 2026 judging process, highlighting professional recognition, leadership, judging, and achievement within the digital community.
+
+![Part C Women in Digital National Awards judging post](part-c-national-awards-judging.jpg)
+
+#### Part C Screenshot 3: Leading Change in Tech - Su Jella
+
+This screenshot shows Su Jella, Executive and Advisor at Nano Insights, being represented as a professional speaker and expert in innovation and digital transformation.
+
+![Part C Leading Change in Tech Su Jella post](part-c-leading-change-su-jella.jpg)
+
+#### Part C Screenshot 4: Upcoming Masterclasses
+
+This screenshot shows multiple professionals presented as masterclass speakers, including Su Jella, Ashton Tuckerman, Dr Ellen Manning, Sandra Moscardo, and Guy Barry. It is useful for analysing who is positioned as expert, credible, and visible in professional learning spaces.
+
+![Part C Upcoming Masterclasses post](part-c-upcoming-masterclasses.jpg)
+
 ### Organisation Requirements
 
 Choose a professional body connected to your future profession. It should represent, accredit, or support people already working in the profession.
