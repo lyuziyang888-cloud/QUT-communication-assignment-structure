@@ -258,6 +258,38 @@ End the analysis with a practical recommendation to the professional body. Frame
 - Three or more scholarly sources are cited in text and listed in APA style.
 - References are real, relevant, and checked.
 
+## Marking Rubric
+
+### Part A
+
+#### Meets Expectations
+
+Context analysis is succinct and insightful, identifying salient identities and situational factors that make power visible. Critical analysis provides a clear, conceptually grounded account of who holds power, how it is communicated verbally and non-verbally, and whose perspectives are validated, using evidence-based knowledge and ideas from the academic literature, which are acknowledged through accurate citation and referencing. Scene selection is appropriate, with a precise screenshot, URL, and timestamps. The word count has been adhered to, and all AI use has been documented appropriately.
+
+#### Does Not Meet Expectations
+
+Context analysis is limited, omitting key identities or situational factors that make power visible. Power analysis lacks clarity and depth, providing a superficial or descriptive account of power dynamics, with minimal or no reference to relevant academic concepts, theories, or evidence-based sources. Scene selection is inappropriate, incomplete, or missing key elements such as a screenshot, URL, or timestamps. Word count is exceeded or significantly underutilised, and AI use is not documented or insufficiently explained.
+
+### Part B
+
+#### Meets Expectations
+
+The original image meets recency (from 2000 onwards) and format constraints and is properly referenced with the URL and access date. A credible perceived bias or assumption towards a group (same marginalised identity chosen in Part A) is clearly identified from the image. Critical analysis demonstrates an in-depth understanding of the biased message and explains how it contributes to power and privilege disparities within Australian society. The analysis uses evidence-based knowledge and ideas from the academic literature, which are acknowledged through accurate citation and referencing. The reimagined image effectively reduces or removes the identified biased message, and the accompanying rationale clearly explains the changes made and their impact. The word count is adhered to, and all AI use is documented appropriately.
+
+#### Does Not Meet Expectations
+
+The original image does not meet recency or format constraints, or is missing proper referencing, including URL and access date. The identification of bias or assumption is unclear, incomplete, or lacks credibility. Analysis of the biased message is superficial, descriptive rather than critical, or does not sufficiently explain how the bias contributes to power and privilege disparities within Australian society. Minimal or no use of academic literature results in unsupported claims, and citation or referencing is inaccurate or missing. The reimagined image does not effectively address the identified bias, and the rationale is vague, incomplete, or absent. The word count is exceeded or significantly underutilised, and AI use is undocumented or insufficiently explained.
+
+### Part C
+
+#### Meets Expectations
+
+The platform and handle are appropriate for a professional peak body, with clear details provided for the URL, date range, and sample size. Critical analysis clearly identifies who is centred versus marginalised or absent across visual and textual content, drawing patterns that are supported by quantitative or well-justified qualitative sampling. Findings are explicitly linked to concepts of competence, leadership potential, and belonging. The analysis incorporates evidence-based knowledge and ideas from the academic literature, which are acknowledged through accurate citation and referencing. The task concludes with a specific and feasible allyship recommendation of 60 to 80 words. The word count is adhered to, and all AI use is documented appropriately.
+
+#### Does Not Meet Expectations
+
+The platform and handle are inappropriate, or key details such as the URL, date range, or sample size are unclear or missing. The analysis lacks clarity in identifying who is centred versus marginalised or absent, and patterns are either unsupported or inadequately explained, with no quantitative or qualitative justification. Findings are not clearly linked to concepts of competence, leadership potential, or belonging. Minimal or no use of academic literature results in unsupported claims, and citation or referencing is inaccurate or missing. The allyship recommendation is absent, overly vague, or not feasible. Word count is exceeded or significantly underutilised, and AI use is undocumented or insufficiently explained.
+
 ## Final Submission Checklist
 
 - Delete all guidance text from the assignment template before submitting.
