@@ -114,6 +114,8 @@ Analyse a static advertisement from 2000 onwards that communicates a stereotype 
 - Connected identity from Part A: gender, femininity, appearance, and social/professional belonging.
 - Stereotype / assumption: women are expected to make their bodies visually acceptable for public display, with a slim, toned body presented as the standard of confidence, beauty, and social acceptability.
 
+![Part B original Protein World advertisement](part-b-protein-world-original-ad.jpg)
+
 ### Required Details
 
 - Paste the original advertisement image.
